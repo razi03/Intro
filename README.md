@@ -9,4 +9,3 @@
 | **Org**        | Upwork Freelancer                |
 | **Background** | BSCS (Final Year)                |
 | **Experience** | 2+ years (Freelance & Internships)|
-```
